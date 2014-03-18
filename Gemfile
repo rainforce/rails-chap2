@@ -46,6 +46,7 @@ gem 'bcrypt', '3.1.7'
 
 # Use unicorn as the app server
 gem 'unicorn','4.8.2'
+gem 'rb-readline'
 
 gem 'execjs','2.0.2'
 gem 'therubyracer','0.12.1'
